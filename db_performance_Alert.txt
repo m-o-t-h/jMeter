@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1550532204200,181,JDBC Request Insert,200,OK,Thread Group 1-3,text,true,1,9,0,10,10,null,180,0,0
+1550532204206,194,JDBC Request Insert,200,OK,Thread Group 1-2,text,true,1,9,0,9,9,null,194,0,0
+1550532204200,200,JDBC Request Insert,200,OK,Thread Group 1-1,text,true,1,9,0,9,9,null,200,0,0
+1550532204205,198,JDBC Request Insert,200,OK,Thread Group 1-4,text,true,1,9,0,9,9,null,197,0,0
+1550532204200,266,JDBC Request Insert,200,OK,Thread Group 1-5,text,true,1,9,0,6,6,null,266,0,0
+1550532204487,200,JDBC Request Insert,200,OK,Thread Group 1-7,text,true,1,9,0,5,5,null,200,0,0
+1550532204421,281,JDBC Request Insert,200,OK,Thread Group 1-6,text,true,1,9,0,4,4,null,281,0,0
+1550532204674,156,JDBC Request Insert,200,OK,Thread Group 1-8,text,true,1,9,0,3,3,null,156,0,0
+1550532204694,194,JDBC Request Insert,200,OK,Thread Group 1-9,text,true,1,9,0,2,2,null,194,0,0
+1550532204955,202,JDBC Request Insert,200,OK,Thread Group 1-10,text,true,1,9,0,1,1,null,202,0,0

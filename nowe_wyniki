@@ -1,0 +1,84 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,failureMessage,bytes,grpThreads,allThreads,Latency,SampleCount,ErrorCount,Hostname
+1548532015739,0,Debug Sampler,200,OK,Random 2-1,true,,260,3,4,0,1,0,DESKTOP-EQER183
+1548532015681,66,HTTP Request,200,OK,Random 2-2,true,,3346,2,3,66,1,0,DESKTOP-EQER183
+1548532015747,0,Debug Sampler,200,OK,Random 2-2,true,,259,2,3,0,1,0,DESKTOP-EQER183
+1548532015726,81,HTTP Request,200,OK,Random 2-3,true,,3346,2,4,81,1,0,DESKTOP-EQER183
+1548532015807,0,Debug Sampler,200,OK,Random 2-3,true,,259,2,4,0,1,0,DESKTOP-EQER183
+1548532015852,0,Debug Sampler,200,OK,Random 2-4,true,,260,2,4,0,1,0,DESKTOP-EQER183
+1548532015907,0,Debug Sampler,200,OK,Random 2-5,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532015947,0,Debug Sampler,200,OK,Random 2-6,true,,259,2,3,0,1,0,DESKTOP-EQER183
+1548532015805,180,rozpoczynam logowanie,200,OK,wp.pl 1-2,true,,8780,2,4,130,1,0,DESKTOP-EQER183
+1548532015804,180,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-2,true,,8780,2,4,130,1,0,DESKTOP-EQER183
+1548532015992,1,Debug Sampler,200,OK,Random 2-7,true,,258,2,3,0,1,0,DESKTOP-EQER183
+1548532016047,0,Debug Sampler,200,OK,Random 2-8,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016025,70,HTTP Request,200,OK,Random 2-9,true,,3346,2,3,70,1,0,DESKTOP-EQER183
+1548532016095,0,Debug Sampler,200,OK,Random 2-9,true,,259,2,3,0,1,0,DESKTOP-EQER183
+1548532015971,159,rozpoczynam logowanie,200,OK,wp.pl 1-3,true,,8781,1,3,111,1,0,DESKTOP-EQER183
+1548532015970,159,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-3,true,,8781,1,3,111,1,0,DESKTOP-EQER183
+1548532016143,0,Debug Sampler,200,OK,Random 2-10,true,,261,2,3,0,1,0,DESKTOP-EQER183
+1548532016192,0,Debug Sampler,200,OK,Random 2-11,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016188,74,HTTP Request,200,OK,Random 2-12,true,,3346,2,3,74,1,0,DESKTOP-EQER183
+1548532016262,1,Debug Sampler,200,OK,Random 2-12,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016139,159,rozpoczynam logowanie,200,OK,wp.pl 1-4,true,,8770,1,3,114,1,0,DESKTOP-EQER183
+1548532016137,159,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-4,true,,8770,1,3,114,1,0,DESKTOP-EQER183
+1548532016239,72,HTTP Request,200,OK,Random 2-13,true,,3346,2,3,72,1,0,DESKTOP-EQER183
+1548532016311,0,Debug Sampler,200,OK,Random 2-13,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016289,69,HTTP Request,200,OK,Random 2-14,true,,3346,2,3,69,1,0,DESKTOP-EQER183
+1548532016358,0,Debug Sampler,200,OK,Random 2-14,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016338,71,HTTP Request,200,OK,Random 2-15,true,,3346,2,3,71,1,0,DESKTOP-EQER183
+1548532016409,0,Debug Sampler,200,OK,Random 2-15,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016458,0,Debug Sampler,200,OK,Random 2-16,true,,261,2,3,0,1,0,DESKTOP-EQER183
+1548532016304,200,rozpoczynam logowanie,200,OK,wp.pl 1-5,true,,8762,2,4,153,1,0,DESKTOP-EQER183
+1548532016303,200,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-5,true,,8762,2,4,153,1,0,DESKTOP-EQER183
+1548532016438,80,HTTP Request,200,OK,Random 2-17,true,,3346,2,3,80,1,0,DESKTOP-EQER183
+1548532016518,0,Debug Sampler,200,OK,Random 2-17,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016493,62,HTTP Request,200,OK,Random 2-18,true,,3346,2,3,62,1,0,DESKTOP-EQER183
+1548532016555,0,Debug Sampler,200,OK,Random 2-18,true,,259,2,3,0,1,0,DESKTOP-EQER183
+1548532016538,67,HTTP Request,200,OK,Random 2-19,true,,3346,2,3,67,1,0,DESKTOP-EQER183
+1548532016605,0,Debug Sampler,200,OK,Random 2-19,true,,260,2,3,0,1,0,DESKTOP-EQER183
+1548532016468,189,rozpoczynam logowanie,200,OK,wp.pl 1-6,true,,8778,1,2,138,1,0,DESKTOP-EQER183
+1548532016467,189,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-6,true,,8778,1,2,138,1,0,DESKTOP-EQER183
+1548532016588,74,HTTP Request,200,OK,Random 2-20,true,,3346,1,1,74,1,0,DESKTOP-EQER183
+1548532016662,0,Debug Sampler,200,OK,Random 2-20,true,,260,1,1,0,1,0,DESKTOP-EQER183
+1548532933904,318,HTTP Request,200,OK,Random 2-3,true,,3346,9,12,318,1,0,DESKTOP-EQER183
+1548532933867,355,HTTP Request,200,OK,Random 2-2,true,,3346,9,12,355,1,0,DESKTOP-EQER183
+1548532934223,1,Debug Sampler,200,OK,Random 2-1,true,,260,9,12,0,1,0,DESKTOP-EQER183
+1548532934227,0,Debug Sampler,200,OK,Random 2-3,true,,259,9,12,0,1,0,DESKTOP-EQER183
+1548532934228,0,Debug Sampler,200,OK,Random 2-2,true,,259,7,10,0,1,0,DESKTOP-EQER183
+1548532934229,0,Debug Sampler,200,OK,Random 2-4,true,,260,6,9,0,1,0,DESKTOP-EQER183
+1548532934266,0,Debug Sampler,200,OK,Random 2-5,true,,259,6,9,0,1,0,DESKTOP-EQER183
+1548532934272,0,Debug Sampler,200,OK,Random 2-6,true,,260,5,8,0,1,0,DESKTOP-EQER183
+1548532934287,0,Debug Sampler,200,OK,Random 2-7,true,,260,4,7,0,1,0,DESKTOP-EQER183
+1548532934306,0,Debug Sampler,200,OK,Random 2-8,true,,260,4,8,0,1,0,DESKTOP-EQER183
+1548532934204,115,HTTP Request,200,OK,Random 2-9,true,,3346,3,7,115,1,0,DESKTOP-EQER183
+1548532934319,0,Debug Sampler,200,OK,Random 2-9,true,,259,3,7,0,1,0,DESKTOP-EQER183
+1548532934336,0,Debug Sampler,200,OK,Random 2-10,true,,261,2,6,0,1,0,DESKTOP-EQER183
+1548532934307,106,HTTP Request,200,OK,Random 2-11,true,,3346,3,7,106,1,0,DESKTOP-EQER183
+1548532934413,0,Debug Sampler,200,OK,Random 2-11,true,,259,3,7,0,1,0,DESKTOP-EQER183
+1548532934357,89,HTTP Request,200,OK,Random 2-12,true,,3346,2,6,89,1,0,DESKTOP-EQER183
+1548532934447,0,Debug Sampler,200,OK,Random 2-12,true,,260,2,6,0,1,0,DESKTOP-EQER183
+1548532934406,101,HTTP Request,200,OK,Random 2-13,true,,3346,3,8,101,1,0,DESKTOP-EQER183
+1548532934507,0,Debug Sampler,200,OK,Random 2-13,true,,260,3,8,0,1,0,DESKTOP-EQER183
+1548532934455,149,HTTP Request,200,OK,Random 2-14,true,,3346,3,8,149,1,0,DESKTOP-EQER183
+1548532934605,0,Debug Sampler,200,OK,Random 2-14,true,,260,4,9,0,1,0,DESKTOP-EQER183
+1548532934505,182,HTTP Request,200,OK,Random 2-15,true,,3346,4,10,182,1,0,DESKTOP-EQER183
+1548532934688,0,Debug Sampler,200,OK,Random 2-15,true,,260,4,10,0,1,0,DESKTOP-EQER183
+1548532934752,0,Debug Sampler,200,OK,Random 2-16,true,,261,4,10,0,1,0,DESKTOP-EQER183
+1548532934607,187,HTTP Request,200,OK,Random 2-17,true,,3346,4,10,187,1,0,DESKTOP-EQER183
+1548532934798,0,Debug Sampler,200,OK,Random 2-17,true,,260,4,10,0,1,0,DESKTOP-EQER183
+1548532934653,196,HTTP Request,200,OK,Random 2-18,true,,3346,3,9,196,1,0,DESKTOP-EQER183
+1548532934849,0,Debug Sampler,200,OK,Random 2-18,true,,260,3,9,0,1,0,DESKTOP-EQER183
+1548532934713,187,HTTP Request,200,OK,Random 2-19,true,,3346,2,8,187,1,0,DESKTOP-EQER183
+1548532934901,0,Debug Sampler,200,OK,Random 2-19,true,,260,2,8,0,1,0,DESKTOP-EQER183
+1548532934755,207,HTTP Request,200,OK,Random 2-20,true,,3346,1,7,207,1,0,DESKTOP-EQER183
+1548532934963,0,Debug Sampler,200,OK,Random 2-20,true,,260,1,7,0,1,0,DESKTOP-EQER183
+1548532934138,1079,rozpoczynam logowanie,200,OK,wp.pl 1-3,true,,8781,6,6,856,1,0,DESKTOP-EQER183
+1548532934137,1079,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-3,true,,8781,6,6,856,1,0,DESKTOP-EQER183
+1548532934470,750,rozpoczynam logowanie,200,OK,wp.pl 1-5,true,,8763,5,5,524,1,0,DESKTOP-EQER183
+1548532934469,750,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-5,true,,8763,5,5,524,1,0,DESKTOP-EQER183
+1548532934305,920,rozpoczynam logowanie,200,OK,wp.pl 1-4,true,,8771,4,4,689,1,0,DESKTOP-EQER183
+1548532934305,920,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-4,true,,8771,4,4,689,1,0,DESKTOP-EQER183
+1548532933970,1261,rozpoczynam logowanie,200,OK,wp.pl 1-2,true,,8780,3,3,1034,1,0,DESKTOP-EQER183
+1548532933969,1261,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-2,true,,8780,3,3,1034,1,0,DESKTOP-EQER183
+1548532934638,740,rozpoczynam logowanie,200,OK,wp.pl 1-6,true,,8779,2,2,477,1,0,DESKTOP-EQER183
+1548532934638,740,wpisywanie loginu i hasla,200,"Number of samples in transaction : 1, number of failing samples : 0",wp.pl 1-6,true,,8779,2,2,477,1,0,DESKTOP-EQER183
